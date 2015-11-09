@@ -45,9 +45,10 @@ body{
 }
 .img{
   border-radius: 50%;
-  padding-top: 0px;
+  margin-top: 80px;
   height: 150px;
   width: 150px;
+  float: left;
 
 }
 .outerDiv {
