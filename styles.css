@@ -90,8 +90,8 @@ p .about{
   background-position: center top;
   color: white;
   height:100%;
-  width:auto;
-  max-height: 100%;
+  width: auto;
+  max-height: 900px;
 }
 [class*="col-"] {
     float: left;
