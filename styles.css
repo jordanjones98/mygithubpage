@@ -19,7 +19,8 @@
     50% { opacity:0; }
     100% { opacity:1; }
 }
-.typed{
+.im{
     font-family: "Raleway";
     font-size: 60px;
+    align-items: center;
 }
