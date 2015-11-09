@@ -1,4 +1,11 @@
+<head>
+<link rel="stylesheet" type="text/css" href="styles.css">
+<title>Jordan Jones</title>
+</head>
+
+<body>
 <h1>Connor is a queer</h1>
+
 
 <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
@@ -6,11 +13,17 @@
 <script>
     $(function(){
         $(".element").typed({
-            strings: ["First sentence.", "Second sentence."],
+            strings: ["I'm a Developer", "I'm a Student"],
             typeSpeed: 0
+            // show cursor
+            showCursor: true,
+            // character for cursor
+            cursorChar: "|",
         });
     });
 </script>
 ...
-
-<span class="element"></span>
+  <div class="typed">
+    <span class="element"></span>
+  </div>
+</body>
