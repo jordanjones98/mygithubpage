@@ -77,13 +77,13 @@ p .about{
   width: 100%;
   float: right;
   padding-top: 80px;
-  padding-right: 15px;
+  padding-right: 1px;
   padding-bottom: 30px;
   color: black;
   background-color: white;
 }
 .aboutname{
-  width: 65%;
+  width: 59%;
   float: right;
   padding-top: 80px;
   padding-right: 15px;
