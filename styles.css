@@ -9,6 +9,14 @@ body{
   font-variant: normal;
   font-weight: 900;
   line-height: 26.4px;
+    width: 100%;
+    background: url('img/milwaukee.jpg');
+    background-position: center top;
+    color: white;
+    height:100%;
+    width: auto;
+    max-height: 900px;
+    background-attachment: fixed;
 }
 .typed-cursor{
     opacity: 1;
@@ -66,15 +74,13 @@ p .about{
   line-height: 0px;
 }
 .about{
-  /*margin-left: 400px;
-
-  margin-right: 20px;
-  margin-bottom: 20px;*/
   width: 65%;
   float: right;
   padding-top: 80px;
   padding-right: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 30px;
+  color: black;
+  background-color: white;
 }
 .aboutname{
   width: 65%;
@@ -92,6 +98,14 @@ p .about{
   height:100%;
   width: auto;
   max-height: 900px;
+  background-attachment: fixed;
+}
+.contact{
+  background-color: transparent;
+  margin-top: 30px;
+}
+.header{
+
 }
 [class*="col-"] {
     float: left;
