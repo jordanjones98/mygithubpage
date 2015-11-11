@@ -76,10 +76,6 @@ p .about{
   line-height: 0px;
   padding-left: 65%;
   margin-left: 600px;
-
-p .about {
-  width: 500px;
-  color: red;
 }
 p .contact{
   padding-top: 30px;
