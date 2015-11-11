@@ -77,12 +77,8 @@ p .contact{
 }
 .about{
   width: 100%;
-  float: right;
   padding-top: 50px;
-  padding-right: 1px;
   padding-bottom: 30px;
-  padding-left: 85%;
-  margin-left: 600px;
   color: black;
   background-color: white;
 }
