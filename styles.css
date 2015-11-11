@@ -71,6 +71,7 @@ body{
 }
 p .about {
   width: 500px;
+  color: red;
 }
 p .contact{
   padding-top: 30px;
