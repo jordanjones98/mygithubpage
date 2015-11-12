@@ -75,7 +75,8 @@ h1.headline {
   font-size: 40px;
   padding-top: 30px;
   padding-bottom: 10px;
-  padding-left: 55%
+  padding-left: 55%;
+  color: black;
 }
 p.about{
   float: right;
@@ -84,8 +85,9 @@ p.about{
   margin-left: 600px;
   background-color: white;
 }
-p .contact{
-  padding-top: 30px;
+h1.contact{
+  margin-top: 30px;
+  color: black;
 }
 .about{
   display: block;
@@ -122,11 +124,13 @@ p .contact{
   width: 100%;
 }
 .contact{
-  background-color: transparent;
+  background-color: white;
+  color: black;
+  padding-top: 30px;
   margin-top: 30px;
 }
 .header{
-padding-top: ;
+padding-top: 30px;
 }
 .work{
   padding-top: 30px
@@ -140,6 +144,33 @@ padding-top: ;
     padding-left: 55%;
     padding-bottom: 30px;
     padding-right: 10px;
+}
+.icons{
+  padding-top: 20px;
+}
+.git{
+}
+.i:hover{
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease;
+  background-color: rgba(30, 150, 30, 0.5);
+}
+.cog1{
+  padding-right: 20px;
+}
+.cog2{
+  padding-left: 20px;
+}
+.coffee{
+  padding-top: 10px;
+}
+.whatido{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rgba(189, 189, 189, .5);
+  z-index: -1;
 }
 [class*="col-"] {
     float: left;
