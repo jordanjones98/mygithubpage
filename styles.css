@@ -235,9 +235,11 @@ p.do{
     }
     .whatido{
       background: url('img/milwaukee1.jpg');
-      background-color: rgba(40, 40, 40, 0.5);
       background-position: center;
       background-repeat: no-repeat;
       width: 100%;
+    }
+    .color{
+      background-color: rgba(0, 0, 0, 0.46);
     }
 }
