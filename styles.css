@@ -166,7 +166,7 @@ padding-top: 30px;
 .whatido{
   padding-top: 20px;
   padding-bottom: 20px;
-  background-color: rgba(189, 189, 189, .5);
+  background-color: rgba(0, 0, 0, 0.46);
   z-index: -1;
 }
 a{
@@ -209,7 +209,8 @@ a{
 p.do{
   margin-left: 50px;
   margin-right: 50px;
-  margin-top: 10px;
+  width: 60%;
+  padding-top: 10px;
 }
 [class*="col-"] {
     float: left;
