@@ -231,18 +231,9 @@ p.do{
 .col-12 {width: 100%;}
 @media screen and (max-device-width: 480px) {
     body {
-        font-size: 11px;
+        font-family: 'Lato';
     }
-    html{
-      font-size: 11px;
+    .whatido{
+      background: url('img/milwaukee.jpg');
     }
-}
-
-@media screen only and (min-width: 600px){
-  html{
-    font-size: 120%;
-  }
-  .whatido{
-    background: url('img/milwaukee.jpg');@
-  }
 }
