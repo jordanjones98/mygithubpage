@@ -7,7 +7,7 @@ body{
   font-size: 20px;
   font-style: normal;
   font-variant: normal;
-  font-weight: 400;
+  font-weight: 600;
   line-height: 26.4px;
     width: 100%;
     background: url('img/milwaukee.jpg');
@@ -17,6 +17,12 @@ body{
     width: auto;
     max-height: 900px;
     background-attachment: fixed;
+}
+h1{
+  font-weight: 600;
+}
+h2{
+  font-weight: 600;
 }
 .typed-cursor{
     opacity: 1;
