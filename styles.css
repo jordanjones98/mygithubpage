@@ -206,6 +206,11 @@ a{
 }
 .footer{
 }
+p.do{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+}
 [class*="col-"] {
     float: left;
     padding: 0px;
