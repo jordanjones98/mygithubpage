@@ -10,7 +10,7 @@ body{
   font-weight: 900;
   line-height: 26.4px;
     width: 100%;
-    background: url('img/milwaukee1.png');
+    background: url('img/milwaukee.jpg');
     background-position: center top;
     color: white;
     height:100%;
@@ -115,7 +115,7 @@ h1.contact{
 .imbackground{
   display: table;
   width: 100%;
-  background: url('img/milwaukee1.png');
+  background: url('img/milwaukee.jpg');
   background-position: center top;
   color: white;
   height:100%;
