@@ -231,15 +231,19 @@ p.do{
 .col-12 {width: 100%;}
 @media screen and (max-device-width: 480px) {
     body {
-        font-family:
+        font-family:'lato';
+        font-weight: lighter;
     }
-    .whatido{
+    .backgroundwid{
       background: url('img/milwaukee1.jpg');
       background-position: center;
       background-repeat: no-repeat;
       width: 100%;
     }
-    .color{
+    .whatido{
+      padding-top: 20px;
+      padding-bottom: 20px;
       background-color: rgba(0, 0, 0, 0.46);
+      z-index: -1;
     }
 }
