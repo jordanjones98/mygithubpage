@@ -231,7 +231,7 @@ p.do{
 .col-12 {width: 100%;}
 @media screen and (max-device-width: 480px) {
     body {
-        font-family: 'Lato';
+        font-weight: normal;
     }
     .whatido{
       background: url('img/milwaukee.jpg');
