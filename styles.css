@@ -7,7 +7,7 @@ body{
   font-size: 20px;
   font-style: normal;
   font-variant: normal;
-  font-weight: 600;
+  font-weight: 900;
   line-height: 26.4px;
     width: 100%;
     background: url('img/milwaukee.jpg');
@@ -18,12 +18,7 @@ body{
     max-height: 900px;
     background-attachment: fixed;
 }
-h1{
-  font-weight: 600;
-}
-h2{
-  font-weight: 600;
-}
+
 .typed-cursor{
     opacity: 1;
     -webkit-animation: blink 0.9s infinite;
@@ -236,7 +231,7 @@ p.do{
 .col-12 {width: 100%;}
 @media screen and (min-width: 480px) {
     body {
-        background-color: grey;
+        background-color: ;
     }
 }
 html{
@@ -244,6 +239,9 @@ html{
 }
 @media screen only and (min-width: 600px){
   html{
-    font-size: 12px;
+    font-size: 120%;
+  }
+  .whatido{
+    background: url('img/milwaukee.jpg');
   }
 }
