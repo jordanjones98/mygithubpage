@@ -230,6 +230,14 @@ p.do{
 .col-12 {width: 100%;}
 @media screen and (min-width: 480px) {
     body {
-        background-color: ;
+        background-color: grey;
     }
+}
+html{
+  font-size: 11px;
+}
+@media screen only and (min-width: 600px){
+  html{
+    font-size: 12px;
+  }
 }
