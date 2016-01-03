@@ -323,8 +323,11 @@ p.anouncement{
   color: black;
   padding-top: 16px;
 }
-.blog{
-  padding: 2%;
+.blogleft{
+  padding-left: 10%;
+}
+.blogright{
+  padding-right: 10%
 }
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
